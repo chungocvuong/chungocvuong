@@ -132,19 +132,9 @@ Client and employer work, so the repositories are private — but this is the sh
 
 ---
 
-## 📊 GitHub activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=chungocvuong&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chungocvuong&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top languages" />
-</p>
-
----
-
 ## 🤝 Get in touch
 
 <p align="left">
-  <a href="mailto:chungocvuong3@gmail.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="32" height="32" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/cnv921" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/chuvuong2910" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" /></a>
   <a href="http://www.instagram.com/du.trg" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" /></a>
